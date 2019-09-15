@@ -1,5 +1,5 @@
-## Question 3
+## Question 6
 
-Write the logic of invert(x,p,n) that prints x with the n bits that begin at position p inverted (i.e., 1 changed into 0 and vice versa), leaving the others unchanged. As an example, use x=7, p=2, n=1. In addition, provide another example of your choice. (K&R Exercise 2-7) 
+Write a program that bitshifts an int x left by 2 if it is less than 4 and right shifts x by 2 if it is greater than or equal to 8. Print the final result. If it lies in between, just print the same number. Do this for x=3, x=5, and x=10.
 
 Output:
