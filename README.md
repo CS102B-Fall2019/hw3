@@ -1,7 +1,7 @@
 # CS102B - HW#3
 
 Due 09/28/19 at 11:59PM.  
-Late submissions are subject to a 10% late penalty.
+Late submissions are subject to a 20% late penalty.
 
 ## Reading
 The C Programming Language, 2nd Edition - Kerninghan & Ritchie  
