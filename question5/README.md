@@ -1,4 +1,4 @@
-## Question 1
+## Question 5
 
 Write a program that mimics rock-paper-scissors. The input should be a single letter: "r", "p", or "s" representing "rock", "paper", and "scissors", respectively. Print out the computer's choice. Also, print out the result as "You win!", "You lose.", and "Tie." depending on the result of the game. 
 
