@@ -7,6 +7,10 @@ If the user enters an invalid letter, print out "Invalid choice."
 You may hard code a computer choice or if you want a challenge, look into using the rand() function or a random number generator function.
 
 Compile Steps:
-
+vim question5answer.c
+gcc question5answer.c
 
 Output:
+choose rock (r), paper (p), or scissor (s):
+s
+computer chose 'rock', you lose
