@@ -4,5 +4,15 @@ Write a multiple choice question of your choice that accepts a letter as an inpu
 
 Compile Steps:
 
+vim question7answer.c
+gcc question7answer.c
 
 Output:
+
+What is Gingers favorite animal?
+a. dogs
+ b. bats
+ c. cats
+ d. dolphins
+A
+correct
